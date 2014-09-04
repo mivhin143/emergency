@@ -1,0 +1,3 @@
+admin.Activity1;admin.Activity1
+admin.recieveme;admin.recieveme
+admin.adapt;admin.adapt

@@ -1,0 +1,2 @@
+Emergency.Activity1;emergency.Activity1
+Emergency.adapt;emergency.adapt

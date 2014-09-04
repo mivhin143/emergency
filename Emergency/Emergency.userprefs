@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Emergency\database.cs" Line="1" Column="1" />
+      <File FileName="Emergency\MainActivity.cs" Line="140" Column="4" />
+      <File FileName="Emergency\adapt.cs" Line="1" Column="1" />
+      <File FileName="Emergency\you.cs" Line="1" Column="1" />
+      <File FileName="Emergency\obj\Debug\android\AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Emergency" expanded="True">
+            <Node name="Resources" expanded="True">
+              <Node name="drawable" expanded="True" />
+              <Node name="layout" expanded="True">
+                <Node name="Main.axml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Emergency MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>

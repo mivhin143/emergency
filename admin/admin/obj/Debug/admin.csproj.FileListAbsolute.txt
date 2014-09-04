@@ -1,0 +1,15 @@
+C:\Users\Illusion\Documents\admin\admin\bin\Debug\admin.dll
+C:\Users\Illusion\Documents\admin\admin\bin\Debug\admin.pdb
+C:\Users\Illusion\Documents\admin\admin\bin\Debug\admin.dll.mdb
+C:\Users\Illusion\Documents\admin\admin\bin\Debug\admin.admin.apk
+C:\Users\Illusion\Documents\admin\admin\bin\Debug\admin.admin-Signed.apk
+C:\Users\Illusion\Documents\admin\admin\obj\Debug\admin.dll
+C:\Users\Illusion\Documents\admin\admin\obj\Debug\admin.pdb
+C:\Users\Illusion\Documents\admin\admin\obj\Debug\android\bin\admin.admin.apk
+C:\Users\Illusion\Documents\admin\admin\obj\Debug\res\layout\main.xml
+C:\Users\Illusion\Documents\admin\admin\obj\Debug\res\values\strings.xml
+C:\Users\Illusion\Documents\admin\admin\obj\Debug\res\drawable\icon.png
+C:\Users\Illusion\Documents\admin\admin\obj\Debug\res\layout\bam.xml
+C:\Users\Illusion\Documents\admin\admin\obj\Debug\R.cs.flag
+C:\Users\Illusion\Documents\admin\admin\obj\Debug\uploadflags.txt
+C:\Users\Illusion\Documents\admin\admin\obj\Debug\res\drawable\asda.ico

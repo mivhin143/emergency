@@ -1,0 +1,17 @@
+C:\Users\Illusion\Documents\Emergency\Emergency\bin\Release\Emergency.dll
+C:\Users\Illusion\Documents\Emergency\Emergency\bin\Release\Emergency.Emergency.apk
+C:\Users\Illusion\Documents\Emergency\Emergency\bin\Release\Emergency.Emergency-Signed.apk
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\Emergency.dll
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\android\bin\Emergency.Emergency.apk
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\res\layout\main.xml
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\res\values\strings.xml
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\res\drawable\icon.png
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\res\layout\login.xml
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\res\layout\choices.xml
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\res\drawable\ambulance.png
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\res\drawable\fire.png
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\res\drawable\police.png
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\res\layout\row.xml
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\res\drawable\asda.ico
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\R.cs.flag
+C:\Users\Illusion\Documents\Emergency\Emergency\obj\Release\uploadflags.txt
